@@ -2,7 +2,7 @@
 German rental properties analysis with Python and Tableau.
 
 ## Objective
-Apartment rental offers of Germany data, available on Kaggle scraped from www.immobilienscount24.de  has been used to analyse the real estate market in Germany. The aim was to identify the most expensive areas to rent apartments in Germany and the factors that have an impact on the rent price. 
+Apartment rental offers of Germany data, available on Kaggle scraped from www.immobilienscount24.de  has been used to analyse the real estate market in Germany. The aim was to identify the most expensive areas to rent apartments in Germany and the factors that have an impact on the rent price by conducting advanced exploratory analysis in Python and build an interactive dashboard with the results.
 
 ## Methods Used
 - Exploring Relationships using  Correlation heatmap, Scatterplots, Pair Plots and Categorical Plots with Python
@@ -10,6 +10,7 @@ Apartment rental offers of Germany data, available on Kaggle scraped from www.im
 - Supervised Machine Learning: Regression
 - Unsupervised Machine Learning: Clustering using k-Means
 - Sourcing & Analyzing Time Series Data and preparing time-seried data for Forecasting using Decomposition in Python
+- Creating Data Dashboard
 
 ## Results
 - The visualizations and the analysis with Python can be found on the _Scriptsfiles_
